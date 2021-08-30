@@ -6,7 +6,7 @@
 - 5문제를 풀지 못하였을 경우 페널티 2000원/문제
 
 ## Participant
-- 이동주: [레포]()
+- 이동주: [레포](https://github.com/dejoker95/baekjoon)
 - 유승수: [레포]()
 - 송민석: [레포]()
 - 안지훈: [레포](https://github.com/namsick96/algoritm_prac)
